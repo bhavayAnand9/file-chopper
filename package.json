@@ -32,7 +32,6 @@
   "bugs": {
     "url": "https://github.com/bhavayAnand9/file-chopper/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "bluebird": "^3.4.7"
   },
