@@ -1,0 +1,59 @@
+{
+  "_from": "file-chopper",
+  "_id": "file-chopper@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-r4OgHUN4My3cogZJ3LqzmHvBteB6SKnDsO14TJO9wRmzXmAHj2AxeP7pZXkVww68BMsS3lnch9xfWvQGLujYIQ==",
+  "_location": "/file-chopper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "file-chopper",
+    "name": "file-chopper",
+    "escapedName": "file-chopper",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/file-chopper/-/file-chopper-1.0.2.tgz",
+  "_shasum": "353145fe22b478cad062e4ce168a4b1f497af7fa",
+  "_spec": "file-chopper",
+  "_where": "/Users/bhavayanand",
+  "author": {
+    "name": "bhavay anand",
+    "email": "bhavayanand9@gmail.com"
+  },
+  "bin": {
+    "file-chopper": "file-chopper-cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bhavayAnand9/file-chopper/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bluebird": "^3.4.7"
+  },
+  "deprecated": false,
+  "description": "split and merge files using nodejs, npm & js",
+  "homepage": "https://github.com/bhavayAnand9/file-chopper#readme",
+  "keywords": [
+    "split",
+    "merge",
+    "file",
+    "stream",
+    "buffers",
+    "splitter"
+  ],
+  "license": "ISC",
+  "main": "file-chopper",
+  "name": "file-chopper",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavayAnand9/file-chopper.git"
+  },
+  "version": "1.0.2"
+}
