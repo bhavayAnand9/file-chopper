@@ -1,6 +1,6 @@
 {
   "_from": "file-chopper",
-  "_id": "file-chopper@1.0.2",
+  "_id": "file-chopper@1.0.3",
   "_inBundle": false,
   "_integrity": "sha512-r4OgHUN4My3cogZJ3LqzmHvBteB6SKnDsO14TJO9wRmzXmAHj2AxeP7pZXkVww68BMsS3lnch9xfWvQGLujYIQ==",
   "_location": "/file-chopper",
@@ -54,5 +54,5 @@
     "type": "git",
     "url": "git+https://github.com/bhavayAnand9/file-chopper.git"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
