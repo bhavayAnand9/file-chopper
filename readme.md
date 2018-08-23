@@ -1,7 +1,5 @@
 # file-chopper
-Continous Integration using Jenkins or Travis Is Still Pending.
-
-Splitter Split and merge files in multiple parts.
+chopper split and merge files in multiple parts.
 
 ### Installation
 To Install Globally
@@ -68,7 +66,7 @@ file-chopper.mergeFiles(names, __dirname + '/testfile-output.bin')
   });
 ```
 
-## CLI Tool
+<!-- ## CLI Tool
 
 ### Installation
 
@@ -89,4 +87,4 @@ The CLI tool works just like you use any other CLI App
 ```
 file-chopper -split <input> <num parts>
 file-chopper -merge <part> <part> ...
-```
+``` -->

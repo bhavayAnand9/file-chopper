@@ -1,5 +1,4 @@
-
- /* Splitter */
+/* Splitter */
 
  var Promise = require('bluebird');
  var fs      = require('fs');
@@ -98,7 +97,7 @@
              // <file>.sf-part01	...... <file>.sf-part14		
              var unpaddedPartNumber = '' + info.number;
              var partNumber = currentPad.substring(0, currentPad.length - unpaddedPartNumber.length) + unpaddedPartNumber;
-             var partName = file + '.sf-part' + partNumber;
+             var partName = file + '.fc-part' + partNumber;
  
              partFiles.push(partName);
  
