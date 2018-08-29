@@ -94,7 +94,7 @@
              for (var i = 0; i < maxPaddingCount; i++) {
                  currentPad += '0';
              }
-             // <file>.sf-part01	...... <file>.sf-part14		
+             // <file>.fc-part01	...... <file>.fc-part14		
              var unpaddedPartNumber = '' + info.number;
              var partNumber = currentPad.substring(0, currentPad.length - unpaddedPartNumber.length) + unpaddedPartNumber;
              var partName = file + '.fc-part' + partNumber;
